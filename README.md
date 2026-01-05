@@ -77,12 +77,6 @@ With 18 years architecting digital workplace solutions, I'm now focused on bridg
 
 ---
 
-## 📊 GitHub Stats
-
-![Athar's GitHub stats](https://github-readme-stats.vercel.app/api?username=athar-swiss&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌟 Featured Projects
 
 ### 🚀 [Copilot Productivity Prompts](https://github.com/athar-swiss/copilot-productivity-prompts)
